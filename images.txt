@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm:master
+1panel/maxkb:v1.10.0-lts
