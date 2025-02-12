@@ -1,1 +1,2 @@
 ollama/ollama:0.5.8
+docker pull mintplexlabs/anythingllm:master
