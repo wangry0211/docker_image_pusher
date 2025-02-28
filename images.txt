@@ -1,1 +1,1 @@
-bitnami/postgresql:17.2.0
+rustdesk/rustdesk-server:1.1.12
