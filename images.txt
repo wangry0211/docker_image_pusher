@@ -1,1 +1,4 @@
-rustdesk/rustdesk-server:1.1.12
+python:3.13.2
+python:3.12.9
+python:3.11.11
+python:3.10.16
