@@ -1,4 +1,1 @@
-python:3.13.2
-python:3.12.9
-python:3.11.11
-python:3.10.16
+vllm/vllm-openai:v0.8.4
