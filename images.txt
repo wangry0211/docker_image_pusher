@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.8.4
+n8nio/n8n:1.90.1
