@@ -1,1 +1,1 @@
-rustfs/rustfs:1.0.0-alpha.49
+rustfs/rustfs:main-ubuntu22.04
