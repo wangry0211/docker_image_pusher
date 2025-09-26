@@ -1,1 +1,2 @@
-linuxserver/ffmpeg:version-8.0-cli
+eclipse-temurin:21.0.8_9-jdk-jammy
+eclipse-temurin:8-jdk-jammy
