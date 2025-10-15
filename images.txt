@@ -1,2 +1,1 @@
-eclipse-temurin:21.0.8_9-jdk-jammy
-eclipse-temurin:8-jdk-jammy
+openjdk:17.0.2
