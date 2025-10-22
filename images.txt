@@ -1,1 +1,1 @@
-adoptopenjdk/openjdk8:jre
+openjdk:8u342-jre
