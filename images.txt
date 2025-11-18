@@ -1,1 +1,1 @@
-mthreads/ollama:0.11.8-vulkan-amd64
+jenkins/jenkins:lts-jdk21
