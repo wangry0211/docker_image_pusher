@@ -1,1 +1,1 @@
-docker pull openeuler/bisheng-jdk:1.8.0-oe2203lts
+openeuler/bisheng-jdk:1.8.0-oe2203lts
