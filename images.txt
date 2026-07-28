@@ -1,1 +1,1 @@
-openeuler/bisheng-jdk:1.8.0-oe2203lts
+jc21/nginx-proxy-manager:2.15.1
