@@ -1,1 +1,1 @@
-jc21/nginx-proxy-manager:2.15.1
+freeradius/freeradius-server:3.2.10
