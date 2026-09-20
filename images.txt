@@ -1,1 +1,2 @@
-freeradius/freeradius-server:3.2.10
+elasticsearch:8.19.21
+logstash:8.19.21
