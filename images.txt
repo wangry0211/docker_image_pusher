@@ -1,2 +1,2 @@
-elasticsearch:8.19.21
-logstash:8.19.21
+snowdreamtech/frps:0.71.0-debian
+snowdreamtech/frpc:0.71.0-debian
